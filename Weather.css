@@ -1,0 +1,47 @@
+html,body{
+
+    margin:0;
+    padding:0;
+    height:100%;
+
+}
+
+body{
+  background-color:skyblue;
+}
+
+p, button{
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+p{
+  margin-top:10px;
+}
+
+
+.red{
+    background-color:red;
+}
+
+
+.col-md-12{
+  padding-top: 50px;
+  text-align: center;
+
+}
+
+input{
+  margin-top:50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  height:80px;
+  width: 80px;
+
+}
+
+.hide{
+  display:none;
+}
